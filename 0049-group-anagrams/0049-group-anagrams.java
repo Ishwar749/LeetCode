@@ -1,7 +1,7 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         List<List<String>> result = new ArrayList<>();
-        TreeMap<String, List<String>> groups = new TreeMap<>();
+        Map<String, List<String>> groups = new HashMap<>();
 
         for(String str: strs) {
             String key = getKey(str);
