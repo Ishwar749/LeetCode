@@ -1,25 +1,13 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-        Trie[] tries = new Trie[strs.length];
-
-        for(int i = 0; i < strs.length; i++) {
-            tries[i] = new Trie();
-            tries[i].insert(strs[i]);
+        
+        Trie trie = new Trie();
+        
+        for(String str: strs) {
+            trie.insert(str);
         }
 
-        StringBuilder lcp = new StringBuilder();
-
-        for(int i = 0; i < strs[0].length(); i++) {
-            lcp.append(strs[0].charAt(i));
-
-            for(Trie trie: tries) {
-                if(!trie.startsWith(lcp.toString())) {
-                    return lcp.substring(0, lcp.length() - 1).toString();
-                }
-            }
-        }
-
-        return lcp.toString();
+        return trie.searchLongestPrefix(strs[0]);
     }
 
     public class TrieNode{
@@ -29,6 +17,10 @@ class Solution {
         public TrieNode() {
             children = new HashMap<>();
             isEndOfWord = false;
+        }
+
+        public int getChildren() {
+            return children.keySet().size();
         }
     }
 
@@ -69,6 +61,22 @@ class Solution {
             }
 
             return true;
+        }
+
+        public String searchLongestPrefix(String word) {
+            TrieNode node = root;
+            StringBuilder prefix = new StringBuilder();
+
+            for(char c: word.toCharArray()) {
+                TrieNode child = node.children.get(c);
+                if(child != null && node.getChildren() == 1 && !node.isEndOfWord) {
+                    prefix.append(c);
+                    node = child;
+                }
+                else return prefix.toString();
+            }
+
+            return prefix.toString();
         }
     }
 }
