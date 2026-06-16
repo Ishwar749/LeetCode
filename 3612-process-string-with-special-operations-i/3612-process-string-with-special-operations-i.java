@@ -11,7 +11,7 @@ class Solution {
             } else if(s.charAt(i) == '#') {
                 result.append(result.toString());
             } else if(s.charAt(i) == '%') {
-                result = new StringBuilder(result.reverse().toString());
+                result.reverse();
             } else {
                 result.append(s.charAt(i));
             }
