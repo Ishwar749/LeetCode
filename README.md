@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ishwar749/LeetCode/tree/master/0049-group-anagrams) |
+| [1189-maximum-number-of-balloons](https://github.com/Ishwar749/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ishwar749/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Tree
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ishwar749/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Ishwar749/LeetCode/tree/master/0049-group-anagrams) |
+| [1189-maximum-number-of-balloons](https://github.com/Ishwar749/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ishwar749/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ishwar749/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Ishwar749/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -122,5 +124,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Ishwar749/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ishwar749/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
