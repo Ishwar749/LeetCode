@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishwar749/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishwar749/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ishwar749/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Ishwar749/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ishwar749/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ishwar749/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ishwar749/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Ishwar749/LeetCode/tree/master/1840-maximum-building-height) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishwar749/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishwar749/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Ishwar749/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ishwar749/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ishwar749/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ishwar749/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Ishwar749/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ishwar749/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
