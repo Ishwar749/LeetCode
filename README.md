@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ishwar749/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishwar749/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ishwar749/LeetCode/tree/master/0877-stone-game) |
+| [1109-corporate-flight-bookings](https://github.com/Ishwar749/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/Ishwar749/LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Ishwar749/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ishwar749/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1109-corporate-flight-bookings](https://github.com/Ishwar749/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/Ishwar749/LeetCode/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Ishwar749/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Ishwar749/LeetCode/tree/master/2574-left-and-right-sum-differences) |
