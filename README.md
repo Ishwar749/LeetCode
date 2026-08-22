@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Ishwar749/LeetCode/tree/master/0223-rectangle-area) |
 | [0486-predict-the-winner](https://github.com/Ishwar749/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishwar749/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ishwar749/LeetCode/tree/master/0877-stone-game) |
@@ -351,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Ishwar749/LeetCode/tree/master/2029-stone-game-ix) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Ishwar749/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
