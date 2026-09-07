@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ishwar749/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Ishwar749/LeetCode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Ishwar749/LeetCode/tree/master/0057-insert-interval) |
+| [0189-rotate-array](https://github.com/Ishwar749/LeetCode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Ishwar749/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishwar749/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ishwar749/LeetCode/tree/master/0877-stone-game) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ishwar749/LeetCode/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ishwar749/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ishwar749/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ishwar749/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ishwar749/LeetCode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Ishwar749/LeetCode/tree/master/0223-rectangle-area) |
 | [0486-predict-the-winner](https://github.com/Ishwar749/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishwar749/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
