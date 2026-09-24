@@ -23,7 +23,6 @@ class MyCalendar {
     }
 
     private boolean isOverlapping(int a, int b, int c, int d) {
-        System.out.println(a +" " + b +" " + c +" " + d);
         if (a < c && b <= c) return false;
         return true;
     }
