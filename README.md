@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ishwar749/LeetCode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Ishwar749/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishwar749/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0729-my-calendar-i](https://github.com/Ishwar749/LeetCode/tree/master/0729-my-calendar-i) |
 | [0835-image-overlap](https://github.com/Ishwar749/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Ishwar749/LeetCode/tree/master/0877-stone-game) |
 | [1094-car-pooling](https://github.com/Ishwar749/LeetCode/tree/master/1094-car-pooling) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Ishwar749/LeetCode/tree/master/0729-my-calendar-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ishwar749/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Ishwar749/LeetCode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishwar749/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Ishwar749/LeetCode/tree/master/0729-my-calendar-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ishwar749/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ishwar749/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ishwar749/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -451,4 +454,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ishwar749/LeetCode/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Ishwar749/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Ishwar749/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
