@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ishwar749/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ishwar749/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Ishwar749/LeetCode/tree/master/1563-stone-game-v) |
+| [1631-path-with-minimum-effort](https://github.com/Ishwar749/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1732-find-the-highest-altitude](https://github.com/Ishwar749/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ishwar749/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ishwar749/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ishwar749/LeetCode/tree/master/0729-my-calendar-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ishwar749/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1631-path-with-minimum-effort](https://github.com/Ishwar749/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Ishwar749/LeetCode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishwar749/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishwar749/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Ishwar749/LeetCode/tree/master/0743-network-delay-time) |
 | [1094-car-pooling](https://github.com/Ishwar749/LeetCode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ishwar749/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Ishwar749/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishwar749/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ishwar749/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bit Manipulation
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishwar749/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ishwar749/LeetCode/tree/master/0337-house-robber-iii) |
 | [0743-network-delay-time](https://github.com/Ishwar749/LeetCode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Ishwar749/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishwar749/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ishwar749/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Ishwar749/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishwar749/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0743-network-delay-time](https://github.com/Ishwar749/LeetCode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Ishwar749/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishwar749/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ishwar749/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishwar749/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -408,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/Ishwar749/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishwar749/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ishwar749/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishwar749/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -417,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/Ishwar749/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Ishwar749/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/Ishwar749/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishwar749/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ishwar749/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -528,4 +535,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Ishwar749/LeetCode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Ishwar749/LeetCode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
