@@ -8,8 +8,10 @@ class Solution {
         int end = 0;
         Map<Character, Integer> freqS = new HashMap<>();
         Map<Character, Integer> freqT = new HashMap<>();
-        String result = "";
+        
         int lenResult = 1000000;
+        int resStart = -1;
+        int resEnd = -1;
 
         for (char c : t.toCharArray()) {
             freqT.put(c, freqT.getOrDefault(c, 0) + 1);
@@ -25,7 +27,8 @@ class Solution {
 
                 if (curLen < lenResult) {
                     lenResult = curLen;
-                    result = s.substring(start, end + 1);
+                    resStart = start;
+                    resEnd = end;
                 }
                 decrement(freqS, s.charAt(start));
                 start++;
@@ -35,7 +38,7 @@ class Solution {
         } 
 
         if (lenResult == 1000000) return "";
-        return result;  
+        return s.substring(resStart, resEnd + 1);  
     }
 
     private boolean containsAll(Map<Character, Integer> freqS, Map<Character, Integer> freqT) {
