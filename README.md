@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ishwar749/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ishwar749/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Ishwar749/LeetCode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ishwar749/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/Ishwar749/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishwar749/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ishwar749/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ishwar749/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Ishwar749/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Ishwar749/LeetCode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ishwar749/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishwar749/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishwar749/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ishwar749/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Ishwar749/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ishwar749/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ishwar749/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ishwar749/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ishwar749/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ishwar749/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ishwar749/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Ishwar749/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ishwar749/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Ishwar749/LeetCode/tree/master/2250-count-number-of-rectangles-containing-each-point) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ishwar749/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ishwar749/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ishwar749/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ishwar749/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Ishwar749/LeetCode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ishwar749/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Ishwar749/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ishwar749/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishwar749/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ishwar749/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bit Manipulation
