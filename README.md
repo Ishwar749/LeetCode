@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ishwar749/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Ishwar749/LeetCode/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/Ishwar749/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/Ishwar749/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ishwar749/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ishwar749/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ishwar749/LeetCode/tree/master/0049-group-anagrams) |
+| [0295-find-median-from-data-stream](https://github.com/Ishwar749/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishwar749/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1094-car-pooling](https://github.com/Ishwar749/LeetCode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/Ishwar749/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ishwar749/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0743-network-delay-time](https://github.com/Ishwar749/LeetCode/tree/master/0743-network-delay-time) |
 | [1094-car-pooling](https://github.com/Ishwar749/LeetCode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ishwar749/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ishwar749/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishwar749/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0729-my-calendar-i](https://github.com/Ishwar749/LeetCode/tree/master/0729-my-calendar-i) |
 ## Ordered Set
@@ -556,4 +560,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Ishwar749/LeetCode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Ishwar749/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ishwar749/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
