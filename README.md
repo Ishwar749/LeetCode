@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Ishwar749/LeetCode/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ishwar749/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0189-rotate-array](https://github.com/Ishwar749/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Ishwar749/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Ishwar749/LeetCode/tree/master/0213-house-robber-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ishwar749/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Ishwar749/LeetCode/tree/master/0486-predict-the-winner) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ishwar749/LeetCode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Ishwar749/LeetCode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ishwar749/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishwar749/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ishwar749/LeetCode/tree/master/0337-house-robber-iii) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ishwar749/LeetCode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Ishwar749/LeetCode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishwar749/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0743-network-delay-time](https://github.com/Ishwar749/LeetCode/tree/master/0743-network-delay-time) |
 | [1254-number-of-closed-islands](https://github.com/Ishwar749/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ishwar749/LeetCode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Ishwar749/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ishwar749/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Ishwar749/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ishwar749/LeetCode/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Ishwar749/LeetCode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Ishwar749/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ishwar749/LeetCode/tree/master/1260-shift-2d-grid) |
